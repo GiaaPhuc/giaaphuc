@@ -15,13 +15,6 @@
 
 Hey there! I'm **Gia Phúc** — a IT student at the **University of Science, VNU-HCM (HCMUS)**, based in Ho Chi Minh City 🇻🇳.
 
-I love turning ideas into real projects — whether that's a web app, a data tool, or a visual simulation. Currently focused on building my skills one commit at a time.
-
-- 🎓 Studying **IT** @ HCMUS
-- 🌱 Learning & building personal projects
-- 🛠️ Interested in **Web Dev**, **Python tooling**, and **creative coding**
-- 💡 I believe: *the best way to learn is to ship something*
-
 ---
 
 ## 🧰 Tech Stack
