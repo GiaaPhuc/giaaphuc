@@ -1,3 +1,5 @@
+<div align="center">
+
 ![Coding work from home](./assets/Coding%20Work%20From%20Home%20GIF%20by%20Salesforce.gif)
 
 # Võ Gia Phúc
@@ -6,7 +8,9 @@
 
 📍 Ho Chi Minh City, Vietnam 🇻🇳
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giaphuc11122006@gmail.com)
+
+</div>
 
 ---
 
