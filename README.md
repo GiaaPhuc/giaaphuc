@@ -2,9 +2,9 @@
 
 ![Coding work from home](./assets/Coding%20Work%20From%20Home%20GIF%20by%20Salesforce.gif)
 
-# Võ Gia Phúc
+# Võ Gia Phúc · CS student 
 
-**Third-year Computer Science student at HCMUS**
+**Computer Science student at HCMUS**
 
 📍 Ho Chi Minh City, Vietnam 🇻🇳
 
