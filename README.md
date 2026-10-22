@@ -1,8 +1,8 @@
 <div align="center">
 
-![Coding work from home](./assets/Coding%20Work%20From%20Home%20GIF%20by%20Salesforce.gif)
+![Coding work from home](./assets/WorkTrabajando.gif)
 
-# Võ Gia Phúc · CS student 
+# Võ Gia Phúc · CS student
 
 **Computer Science student at HCMUS**
 
