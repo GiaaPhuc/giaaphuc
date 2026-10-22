@@ -2,7 +2,7 @@
 
 ![Coding work from home](./assets/WorkTrabajando.gif)
 
-# Võ Gia Phúc · CS student
+# Võ Gia Phúc
 
 **Computer Science student at HCMUS**
 
@@ -14,10 +14,3 @@
 
 ---
 
-### About me
-
-I am a Computer Science student at the **University of Science, VNU-HCM**. Most of my time goes to coursework and personal projects: writing programs, debugging them, and figuring out how a solution actually works.
-
-Outside class, I am learning **AI**.
-
----
