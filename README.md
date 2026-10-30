@@ -2,7 +2,7 @@
 
 ![Coding work from home](./assets/WorkTrabajando.gif)
 
-# Võ Gia Phúc
+# Vo Gia Phuc
 
 **Computer Science student at University of Science, VNU-HCM**
 
